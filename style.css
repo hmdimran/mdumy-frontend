@@ -16,6 +16,10 @@ a {
     width: 100%;
     padding: 20px;
   }
+  .join-50 {
+    width: 100% !important;
+    margin-bottom: 20px;
+  }
 }
 @media (min-width: 576px) {
   .explore-image {
@@ -25,6 +29,10 @@ a {
   .explore-content {
     width: 100%;
     padding: 20px;
+  }
+  .join-50 {
+    width: 100% !important;
+    margin-bottom: 20px;
   }
 }
 
@@ -37,5 +45,8 @@ a {
   .explore-content {
     width: 50%;
     padding: 20px;
+  }
+  .join-50 {
+    width: 50% !important;
   }
 }
